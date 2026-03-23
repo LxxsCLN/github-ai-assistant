@@ -2,11 +2,8 @@
   "manifest_version": 3,
   "name": "GitHub AI Assistant",
   "version": "1.0.0",
-  "description": "AI-powered GitHub repository analyzer. Get instant summaries, key features, tech stack breakdowns, and chat with AI about any repository.",
-  "permissions": [
-    "activeTab",
-    "storage"
-  ],
+  "description": "AI-powered GitHub repository analyzer. Get instant summaries, key features, tech stack breakdowns, and chat with AI about any repo.",
+  "permissions": ["activeTab", "storage"],
   "host_permissions": [
     "https://github.com/*",
     "https://api.github.com/*",
