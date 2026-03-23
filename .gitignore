@@ -9,3 +9,6 @@ Thumbs.db
 # Packages
 node_modules/
 *.zip
+
+# Store assets (not part of the extension)
+store-assets/
